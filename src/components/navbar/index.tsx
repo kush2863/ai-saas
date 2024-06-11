@@ -21,7 +21,7 @@ function NavBar() {
           height={0}
         />
       </div>
-      <ul className="gap-10 justify-between self-stretch my-auto text-sm leading-5 text-neutral-700 max-md:flex-wrap md:gap-5 max-md:max-w-full font-normal hidden md:flex">
+      <ul className="gap-10 justify-between self-stretch my-auto text-sm leading-5 text-neutral-700  max-md:flex-wrap md:gap-5 max-md:max-w-full font-normal hidden md:flex">
         <li>Home</li>
         <li>Pricing</li>
         <li>News Room</li>
@@ -38,4 +38,4 @@ function NavBar() {
   )
 }
 
-export default NavBar
+export default NavBar;
